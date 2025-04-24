@@ -5,7 +5,7 @@
 ### 1. Clone the application
 
 ```bash
-git clone https://github.com/yourusername/angular-note-crud.git
+git clone https://github.com/escape-dev/astrapay-angular-external.git
 ```
 
 ---
