@@ -1,7 +1,5 @@
 # Note App
 
----
-
 ## Steps to Setup
 
 ### 1. Clone the application
