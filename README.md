@@ -18,7 +18,7 @@ npm install -g @angular/cli
 
 ---
 
-### 3. Install dependencies/npm modules
+### 3. Install dependencies
 
 Go to the project directory and execute the following command from the terminal:
 
